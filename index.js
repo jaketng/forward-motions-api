@@ -5,4 +5,9 @@ app.get('/', function (req, res) {
   res.send('Hello World')
 })
 
-app.listen(3000)
+app.get('/api/courses', (req, res) => {
+  res.send([1, 2, 3]) 
+})
+
+const PORT = process.env.PORT || 3000
+app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
