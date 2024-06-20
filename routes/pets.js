@@ -2,7 +2,7 @@ import express from 'express'
 
 const pets_router = express.Router()
 
-pets_router.get('/:id', (req, res) => {
+pets_router.get('/', (req, res) => {
   res.send('Hello From Pets Router')
 })
 
