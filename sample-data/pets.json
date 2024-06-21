@@ -1,0 +1,69 @@
+[
+    {
+      "id": 10,
+      "name": "doggie",
+      "category": {
+        "id": 1,
+        "name": "Dogs"
+      },
+      "photoUrls": [
+        "https://example.com/photos/doggie1.jpg"
+      ],
+      "tags": [
+        {
+          "id": 0,
+          "name": "friendly"
+        },
+        {
+          "id": 1,
+          "name": "puppy"
+        }
+      ],
+      "status": "available"
+    },
+    {
+      "id": 11,
+      "name": "kitty",
+      "category": {
+        "id": 2,
+        "name": "Cats"
+      },
+      "photoUrls": [
+        "https://example.com/photos/kitty1.jpg"
+      ],
+      "tags": [
+        {
+          "id": 2,
+          "name": "cute"
+        },
+        {
+          "id": 3,
+          "name": "kitten"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "name": "bunny",
+      "category": {
+        "id": 3,
+        "name": "Rabbits"
+      },
+      "photoUrls": [
+        "https://example.com/photos/bunny1.jpg"
+      ],
+      "tags": [
+        {
+          "id": 4,
+          "name": "soft"
+        },
+        {
+          "id": 5,
+          "name": "small"
+        }
+      ],
+      "status": "sold"
+    }
+  ]
+  
