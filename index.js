@@ -14,9 +14,7 @@ app.get("/", (req, res) => {
 })
 
 app.use('/api/pets', pets_router)
-
 app.use('/api/users', users_router)
-
 app.use('/api/store', store_router)
 
 app.use(errorHandler);
