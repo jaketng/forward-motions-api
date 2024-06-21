@@ -6,9 +6,7 @@
       "id": 1,
       "name": "Dogs"
     },
-    "photoUrls": [
-      "https://example.com/photos/doggie1.jpg"
-    ],
+    "photoUrls": ["https://example.com/photos/doggie1.jpg"],
     "tags": [
       {
         "id": 0,
@@ -28,9 +26,7 @@
       "id": 2,
       "name": "Cats"
     },
-    "photoUrls": [
-      "https://example.com/photos/kitty1.jpg"
-    ],
+    "photoUrls": ["https://example.com/photos/kitty1.jpg"],
     "tags": [
       {
         "id": 2,
@@ -50,9 +46,7 @@
       "id": 3,
       "name": "Rabbits"
     },
-    "photoUrls": [
-      "https://example.com/photos/bunny1.jpg"
-    ],
+    "photoUrls": ["https://example.com/photos/bunny1.jpg"],
     "tags": [
       {
         "id": 4,
