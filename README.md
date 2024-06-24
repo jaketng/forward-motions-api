@@ -1,4 +1,4 @@
-# Swagger Petsore API
+# Swagger Petstore API
 
 ## Description
 
