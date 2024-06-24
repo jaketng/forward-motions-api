@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a sample API server built with Express.js. It provides endpoints to manage pets, users, and store orders using JSON files as data storage.
+This repository contains a sample API server built with Express.js. It provides endpoints to manage pets, users, and store orders.
 
 ## Installation
 
@@ -41,12 +41,12 @@ Endpoints:
 
 ### Sample Request
 
-You can use tools like Postman or curl to make sample requests to the API:
+You can use tools like Postman or curl to make sample requests to the API
 
-Example: Get all pets
-Method: GET
-URL: http://localhost:3000/api/pets
-Response:
+Example: Get all pets <br />
+Method: GET <br />
+URL: http://localhost:3000/api/pets <br />
+Response: <br />
 
 ```json
 [
